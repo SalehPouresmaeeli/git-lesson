@@ -1,0 +1,4 @@
+create a repo (done)
+add a file to repo (done)
+check the history (done)
+push and pull
